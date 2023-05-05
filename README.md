@@ -11,8 +11,8 @@
 
 ```
 pkg install git
-git clone https://github.com/Odin-Hat/ANALYTICS
-cd ANALYTICS
+git clone https://github.com/Odin-Hat/TZANALYTICS
+cd TZANALYTICS
 chmod +x *
 ./main.bash
 
